@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\learning\coding\git\github\GD32E103\GD32E103\GD32E103.PcbDoc
 Date     : 2019/12/28
-Time     : 17:52:20
+Time     : 23:38:51
 
 Processing Rule : Clearance Constraint (Gap=14mil) (InPolygon),(All)
 Rule Violations :0
@@ -48,4 +48,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00
