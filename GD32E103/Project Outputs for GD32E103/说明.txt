@@ -1,0 +1,2 @@
+BOM文档是 GD32E103.xls
+其中Comment标注NC的不需要贴片，空置就行；
