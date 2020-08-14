@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [GD32E103.PrjPcb]
+   Generated File[GD32E103-RoundHoles-Plated.TXT]
+   Generated File[GD32E103-SlotHoles-Plated.TXT]
+   Generated File[GD32E103.DRL]
+   Generated File[GD32E103.LDP]
+   Generated File[GD32E103.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 16:06:43 On 2020/8/14
